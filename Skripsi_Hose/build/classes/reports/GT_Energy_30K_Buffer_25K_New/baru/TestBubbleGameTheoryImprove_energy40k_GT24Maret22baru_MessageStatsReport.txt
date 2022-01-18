@@ -1,0 +1,20 @@
+Message stats for scenario TestBubbleGameTheoryImprove_energy40k_GT24Maret22baru
+sim_time: 120000.0000
+created: 100
+started: 61
+relayed: 61
+aborted: 0
+dropped: 86
+removed: 0
+delivered: 7
+delivery_prob: 0.0700
+response_prob: 0.0000
+overhead_ratio: 7.7143
+latency_avg: 80478.7143
+latency_med: 83012.0000
+hopcount_avg: 1.1429
+hopcount_med: 1
+buffertime_avg: 31126.8256
+buffertime_med: 6402.0000
+rtt_avg: NaN
+rtt_med: NaN

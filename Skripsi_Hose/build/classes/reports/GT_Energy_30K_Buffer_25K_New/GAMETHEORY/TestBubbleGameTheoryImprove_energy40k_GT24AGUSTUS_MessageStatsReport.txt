@@ -1,0 +1,20 @@
+Message stats for scenario TestBubbleGameTheoryImprove_energy40k_GT24AGUSTUS
+sim_time: 120000.0000
+created: 1093
+started: 40
+relayed: 40
+aborted: 0
+dropped: 348
+removed: 0
+delivered: 4
+delivery_prob: 0.0037
+response_prob: 0.0000
+overhead_ratio: 9.0000
+latency_avg: 81157.2250
+latency_med: 83754.0000
+hopcount_avg: 1.0000
+hopcount_med: 1
+buffertime_avg: 76943.7701
+buffertime_med: 86366.2000
+rtt_avg: NaN
+rtt_med: NaN
